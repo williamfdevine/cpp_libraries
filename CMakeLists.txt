@@ -11,3 +11,4 @@ ADD_SUBDIRECTORY( linked_list )
 #ADD_EXECUTABLE( EXE_EXE 
 				#main.cpp
 #)
+#lknalkns
